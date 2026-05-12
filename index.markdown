@@ -6,13 +6,13 @@ layout: home
 title: Home
 ---
 
-# Hi, I'm Trey Dolan
+## Hi, I'm Trey Dolan
 
 Web Developer and CompTIA A+ certified IT professional focused on building modern, user-friendly websites and applications.
 
 Currently pursuing a Bachelor's degree in Web Development at Broward College while developing full-stack web applications.
 
-[View my work](#projects) | [Get in touch](/contact)
+[View my work](/projects) | [Get in touch](/contact)
 
 ## Featured Projects
 
