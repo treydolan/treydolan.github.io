@@ -11,13 +11,13 @@ I'm currently building my portfolio projects. Below are templates for projects I
 ---
 
 ### Project 1
-**Coming soon...**
+CTS2853C - Client-side Scripting (Broward College)
 
 Description: What did this project build or solve? Why did you create it?
 
 **Tech Stack:** HTML, CSS, JavaScript
 
-**Links:** [GitHub](#) | [Live Demo](#)
+**Links:** [GitHub](https://github.com/treydolan/treymakestunes.git) | [Live Demo](https://treydolan.github.io/treymakestunes)
 
 ---
 
