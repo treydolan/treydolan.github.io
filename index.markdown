@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
+title: Welcome
 ---
 
-## Hi, I'm Trey Dolan
+## I'm Trey Dolan
 
 Web Developer and CompTIA A+ certified IT professional focused on building modern, user-friendly websites and applications.
 
