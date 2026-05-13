@@ -33,6 +33,13 @@ linkedin_username: treyrdolan
 theme: minima
 plugins:
   - jekyll-feed
+minima:
+  header_pages:
+    - about.markdown
+    - projects.markdown
+    - work-experience.markdown
+    - contact.markdown
+    - blog.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

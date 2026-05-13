@@ -4,9 +4,8 @@ title: Work Experience
 permalink: /work-experience/
 ---
 
-## Work Experience
+## IT Intern - Technology Specialist
 
-### IT Intern - Technology Specialist
 **Broward College, Coconut Creek, FL** | Aug 2025 - Nov 2025
 
 - Provided real-time technical support for hardware, software, and connectivity issues in office and classroom environments
@@ -15,7 +14,8 @@ permalink: /work-experience/
 - Organized and tracked equipment inventory to support efficient deployment
 - Communicated with team via Microsoft Teams to maintain workflow continuity
 
-### Audit Technician
+## Audit Technician
+
 **DataMax System Solutions, Boca Raton, FL** | Oct 2021 - Jun 2024
 
 - Audited incoming IT hardware and entered data into enterprise system (Quickbase)
@@ -23,7 +23,8 @@ permalink: /work-experience/
 - Packed and palletized hardware shipments while recording measurements and details
 - Maintained attention to detail in fast-paced warehouse environment
 
-### Technician (Audio-Visual Support)
+## Technician (Audio-Visual Support)
+
 **Encore, Fort Lauderdale, FL** | Jan 2019 - Mar 2020
 
 - Set up and operated small-scale audiovisual systems in hospitality environments
@@ -43,3 +44,5 @@ Broward College
 
 **B.S. Hospitality & Tourism Management**
 Florida State University (2018)
+
+[📄 Download my resume](/assets/resume_Thomas-Dolan.pdf){: .resume-download }

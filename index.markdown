@@ -1,12 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: Welcome
 ---
 
 ## I'm Trey Dolan
+
+![Trey Dolan Headshot](/assets/headshot-Thomas-Dolan.jpg){: .hero-image }
 
 Web Developer and CompTIA A+ certified IT professional focused on building modern, user-friendly websites and applications.
 
