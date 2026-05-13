@@ -1,7 +1,97 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "custom/variables";
+// Colors
+$brand-color: #81c3d7;
+$brand-color-dark: #5ba3b8;
+$text-color: #e8e8e8;
+$text-color-light: #a8a8a8;
+$background-color: #1a1a1a;
+$border-color: #333333;
+
 @import "minima";
-@import "custom/layout";
+
+.site-title {
+  @include relative-font-size(1.625);
+  font-weight: 300;
+  line-height: $base-line-height * $base-font-size * 2.25;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+
+  &,
+  &:visited {
+    color: $brand-color-dark;
+  }
+}
+
+.menu-icon svg path {
+    fill: $brand-color;
+    stroke: $brand-color;
+}
+
+.hero-image:hover {
+    rotate: 10deg;
+}
+
+.hero-image {
+    color: blue;
+    border: 5px solid red;
+    max-width: 200px;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: $spacing-unit * 2;
+    display: block;
+    float: right;
+}
+
+// Post Styling
+.post-navigation {
+    display: flex;
+    justify-content: space-between;
+  align-items: center;
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid $brand-color;
+  
+  .nav-link {
+    color: $brand-color;
+    text-decoration: none;
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  
+  .nav-back {
+    margin: 0 auto; // centers it if no prev/next
+  }
+}
+
+// Resume download link
+.resume-download {
+  display: flex;
+  justify-content: center;
+  padding: $spacing-unit;
+  background-color: $brand-color;
+  color: $background-color;
+  border-radius: 6px;
+  font-weight: 600;
+  margin: $spacing-unit * 2;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    background-color: $brand-color-dark;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    color: tan;
+  }
+
+  &,
+  &:visited {
+    color: #1a1a1a;
+    text-decoration: none !important;
+  }
+}
+
