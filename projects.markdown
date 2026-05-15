@@ -18,6 +18,8 @@ Personal Portfolio using only HTML, CSS, and JS.Personal portfolio website built
 
 **Repo:** [treymakestunes](https://github.com/treydolan/treymakestunes.git) | [Live Demo](https://treydolan.github.io/treymakestunes)
 
+![Creative Portfolio](/assets/treymakestunes-sample.gif)
+
 ---
 
 ### Web Audio API Example
@@ -28,15 +30,19 @@ Interactive web application demonstrating the capabilities of the Web Audio API.
 
 **Repo:** [web-audio-api-demo](https://github.com/treydolan/web-audio-api-demo) | [Live Demo](https://treydolan.github.io/web-audio-api-demo/)
 
+![Web Audio API Example](/assets/audioApi-sample.gif)
+
 ---
 
 ### Mithril.js Productivity App
 
 A lightweight productivity and task management application built with Mithril.js. Features fast rendering, minimal bundle size, and an intuitive interface for organizing daily workflows.
 
-**Tech Stack:** HTML, CSS, JavaScript, Mithril.js
+**Tech Stack:** HTML, CSS, JavaScript, Mithril.js, Bootstrap
 
 **Repo:** [mithril-productivity-webapp](https://github.com/treydolan/mithril-productivity-webapp) | [Live Demo](https://treydolan.github.io/mithril-productivity-webapp/)
+
+![Mithril.js Walkthrough](/assets/mithriljs-sample.gif)
 
 ---
 
@@ -44,9 +50,11 @@ A lightweight productivity and task management application built with Mithril.js
 
 Demonstration site featuring the Intro.js library for creating guided product tours. Showcases how to implement interactive onboarding experiences and user walkthroughs on web applications.
 
-**Tech Stack:** HTML, CSS, JavaScript, Mithril.js
+**Tech Stack:** HTML, CSS, JavaScript, Intro.js
 
 **Repo:** [introjs-example-site](https://github.com/treydolan/introjs-example-site) | [Live Demo](https://treydolan.github.io/introjs-example-site/)
+
+![Intro.js Walkthrough](/assets/introjs-sample.gif)
 
 ---
 

@@ -11,9 +11,9 @@ Web Developer and CompTIA A+ certified IT professional focused on building moder
 
 Currently pursuing a Bachelor's degree in Web Development at Broward College while developing full-stack web applications.
 
-## Featured Projects
+### Featured Projects
 
-- Vanilla Portfolio
+- Portfolio
 - Canvas Game
 - Music Idea Generator
 - Other Projects
@@ -22,12 +22,16 @@ Currently pursuing a Bachelor's degree in Web Development at Broward College whi
 
 ---
 
-## About Me
+## Mentorship & Industry Guidance
 
-I'm a web development student with a strong foundation in both IT support and creative technology. I'm passionate about frontend development, interactive digital experiences, and building solutions that work for real people.
+I'm actively seeking mentorship and insights from experienced developers and industry professionals. After several years of formal study in web development, I've built a foundation in frontend and backend technologies (HTML5, CSS, JavaScript, jQuery, and database design), but I recognize that classroom learning is only part of the equation.
+I'm particularly interested in understanding:
 
-When I'm not coding, you'll find me exploring electronic music and learning new web technologies.
+- Real-world development practices: how professional teams approach architecture, testing, and deployment
+- Career pathways in web development: what skills matter most, and how to evaluate opportunities
+- Industry best practices: patterns and workflows that separate solid code from production-ready systems
+- Navigating the transition from student to professional: practical advice on building a portfolio, contributing to open source, and breaking into the field
 
-**Currently learning:** React, backend development, and advanced JavaScript
+If you're willing to share your experience or point me toward resources, frameworks, or communities that accelerated your own growth, I'd genuinely value that perspective.
 
-[Get in touch](/contact)
+Contact me: [treyrdolan@gmail.com](mailto:treyrdolan@gmail.com)
