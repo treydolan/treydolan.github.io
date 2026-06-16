@@ -45,4 +45,4 @@ Broward College
 **B.S. Hospitality & Tourism Management**
 Florida State University (2018)
 
-[📄 Download my resume](/assets/resume_Thomas-Dolan.pdf){: .resume-download }
+[📄 Download my resume](/assets/260610_Dolan-Resume.pdf){: .resume-download }
