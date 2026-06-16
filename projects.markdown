@@ -55,17 +55,3 @@ Demonstration site featuring the Intro.js library for creating guided product to
 **Repo:** [introjs-example-site](https://github.com/treydolan/introjs-example-site) | [Live Demo](https://treydolan.github.io/introjs-example-site/)
 
 ![Intro.js Walkthrough](/assets/introjs-sample.gif)
-
----
-
-## How to Fill These In
-
-For each project, include:
-
-1. **Project title** - Clear, descriptive name
-2. **Description** - 1-2 sentences about what it does and why you built it
-3. **Tech stack** - Technologies you used (HTML, CSS, JavaScript, React, etc.)
-4. **Repo** - GitHub repo and live demo (if available)
-5. **Image/screenshot** - Visual of the project (optional but recommended)
-
-As you complete projects, replace the "Coming soon" sections with your real work!
