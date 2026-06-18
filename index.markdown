@@ -1,37 +1,50 @@
 ---
 layout: home
-title: Welcome
+title: Entry-Level Web Developer
 ---
-
-## My name is Trey
 
 ![Trey Dolan Headshot](/assets/headshot-Thomas-Dolan.jpg){: .hero-image }
 
-Web Developer and CompTIA A+ certified IT professional focused on building modern, user-friendly websites and applications.
+## Trey Dolan
 
-Currently pursuing a Bachelor's degree in Web Development at Broward College while developing full-stack web applications.
+Web development student and CompTIA A+ certified IT professional building responsive, user-friendly websites with HTML, CSS, JavaScript, PHP, SQL, and modern frontend tools.
 
-### Featured Projects
+I am looking for an entry-level web developer role where I can bring hands-on support experience, careful troubleshooting, and a practical eye for building interfaces that are clear, reliable, and easy to use.
 
-- HTML, CSS, JavaScript Portfolio (Client-side Scripting Course)
-- Web Audio API
-- Music Idea Generator
-- Other Projects
+<div class="cta-row">
+  <a class="button-link" href="/projects/">View projects</a>
+  <a class="button-link button-link-secondary" href="/work-experience/">Resume and experience</a>
+  <a class="button-link button-link-secondary" href="mailto:treyrdolan@gmail.com">Contact me</a>
+</div>
 
-[View my work](/projects)
+## Featured Work
+
+<div class="featured-grid">
+  <a class="feature-card" href="/projects/#web-audio-api-example">
+    <strong>Web Audio API Demo</strong>
+    <span>Interactive browser audio experiments with vanilla JavaScript.</span>
+  </a>
+  <a class="feature-card" href="/projects/#mithriljs-productivity-app">
+    <strong>Mithril.js Productivity App</strong>
+    <span>A lightweight task workflow built with Mithril.js and Bootstrap.</span>
+  </a>
+  <a class="feature-card" href="/projects/#introjs-sample-site">
+    <strong>Intro.js Guided Tour</strong>
+    <span>Product onboarding patterns using an interactive walkthrough library.</span>
+  </a>
+</div>
 
 ---
 
-## Mentorship & Industry Guidance
+## What I Bring
 
-I'm actively seeking mentorship and insights from experienced developers and industry professionals. After several years of formal study in web development, I've built a foundation in frontend and backend technologies (HTML5, CSS, JavaScript, PHP, and SQL), but I recognize that classroom learning is only part of the equation.
-I'm particularly interested in understanding:
+- Frontend fundamentals: semantic HTML, responsive CSS, JavaScript, accessibility, and browser testing.
+- Practical full-stack exposure: PHP, SQL, Node.js, Python, and database-backed coursework.
+- IT support judgment: diagnosing issues, documenting work, communicating with users, and staying calm when systems are not cooperating.
+- Creative technical curiosity: audio, interactive media, and small tools that make digital experiences feel more useful.
 
-- Real-world development practices: how professional teams approach architecture, testing, and deployment
-- Career pathways in web development: what skills matter most, and how to evaluate opportunities
-- Industry best practices: patterns and workflows that separate solid code from production-ready systems
-- Navigating the transition from student to professional: practical advice on building a portfolio, contributing to open source, and breaking into the field
+## Currently Focused On
 
-If you're willing to share your experience or point me toward resources, frameworks, or communities that accelerated your own growth, I'd genuinely value that perspective.
+I am sharpening my JavaScript, React, SvelteKit, backend framework, and performance skills while finishing my Bachelor's degree in Web Development at Broward College.
 
-Contact me: [treyrdolan@gmail.com](mailto:treyrdolan@gmail.com)
+Email: [treyrdolan@gmail.com](mailto:treyrdolan@gmail.com)

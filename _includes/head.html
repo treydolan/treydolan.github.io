@@ -2,6 +2,19 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script>
+    (function () {
+      var storedTheme = null;
+      try {
+        storedTheme = localStorage.getItem("theme");
+      } catch (error) {
+        storedTheme = null;
+      }
+      var prefersLight = window.matchMedia("(prefers-color-scheme: light)").matches;
+      var theme = storedTheme || (prefersLight ? "light" : "dark");
+      document.documentElement.setAttribute("data-theme", theme);
+    }());
+  </script>
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="icon" type="image/png" href="/assets/favicon-96x96.png" sizes="96x96" />
@@ -11,6 +24,7 @@
   <link rel="manifest" href="/assets/site.webmanifest" />
 
   {%- feed_meta -%}
+  <script src="{{ "/assets/theme-toggle.js" | relative_url }}" defer></script>
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}

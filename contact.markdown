@@ -6,13 +6,13 @@ permalink: /contact/
 
 ## Get In Touch
 
-I'd love to hear from you! Whether you have a question, a project idea, or just want to chat about web development, feel free to reach out.
+I am open to entry-level web development roles, internships, junior developer opportunities, and conversations with teams looking for someone with both web development training and IT support experience.
 
 **Email:** [treyrdolan@gmail.com](mailto:treyrdolan@gmail.com)
 
 **Location:** Pompano Beach, FL
 
-**Phone:** (954) 205-0943
+**Phone:** Available on request
 
 ## Connect On Social
 
@@ -21,4 +21,4 @@ I'd love to hear from you! Whether you have a question, a project idea, or just 
 
 ## Quick Response
 
-I typically respond to emails within 24-48 hours. Looking forward to connecting with you!
+I typically respond to emails within 24-48 hours.
