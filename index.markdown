@@ -3,7 +3,7 @@ layout: home
 title: Welcome
 ---
 
-## I'm Trey Dolan
+## My name is Trey
 
 ![Trey Dolan Headshot](/assets/headshot-Thomas-Dolan.jpg){: .hero-image }
 
@@ -13,8 +13,8 @@ Currently pursuing a Bachelor's degree in Web Development at Broward College whi
 
 ### Featured Projects
 
-- Portfolio
-- Canvas Game
+- HTML, CSS, JavaScript Portfolio (Client-side Scripting Course)
+- Web Audio API
 - Music Idea Generator
 - Other Projects
 
@@ -24,7 +24,7 @@ Currently pursuing a Bachelor's degree in Web Development at Broward College whi
 
 ## Mentorship & Industry Guidance
 
-I'm actively seeking mentorship and insights from experienced developers and industry professionals. After several years of formal study in web development, I've built a foundation in frontend and backend technologies (HTML5, CSS, JavaScript, jQuery, and database design), but I recognize that classroom learning is only part of the equation.
+I'm actively seeking mentorship and insights from experienced developers and industry professionals. After several years of formal study in web development, I've built a foundation in frontend and backend technologies (HTML5, CSS, JavaScript, PHP, and SQL), but I recognize that classroom learning is only part of the equation.
 I'm particularly interested in understanding:
 
 - Real-world development practices: how professional teams approach architecture, testing, and deployment
