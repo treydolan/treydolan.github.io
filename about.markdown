@@ -13,11 +13,11 @@ Born and raised in Florida, I’ve always enjoyed the energy and creativity that
 
 ## Skills
 
-**Frontend:** HTML, CSS, JavaScript, Git/GitHub
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind
 
-**Backend:** PHP, MySQL, LAMP Stack
+**Backend:** PHP, Node.js, Python, MySQL, phpMyAdmin
 
-**Tools & Systems:** Windows, macOS, Linux, VS Code, GitHub, Microsoft Office, Team Dynamics
+**Tools & Systems:** Wordpress, VS Code, GitHub, Microsoft Office, Team Dynamics
 
 **IT Support:** Hardware troubleshooting, network fundamentals, device deployment, customer service
 
