@@ -30,22 +30,6 @@ $border-color: #333333;
     stroke: $brand-color;
 }
 
-.hero-image:hover {
-    rotate: 10deg;
-}
-
-.hero-image {
-    color: blue;
-    border: 5px solid red;
-    max-width: 200px;
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
-    margin-bottom: $spacing-unit * 2;
-    display: block;
-    float: right;
-}
-
 // Post Styling
 .post-navigation {
     display: flex;
@@ -95,3 +79,41 @@ $border-color: #333333;
   }
 }
 
+// Mobile + portfolio polish
+.hero-image {
+  max-width: 260px;
+  width: 100%;
+  height: auto;
+  border: 3px solid $brand-color;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  margin: 0 0 $spacing-unit $spacing-unit;
+  transition: transform 0.25s ease;
+  display: block;
+  float: right;
+}
+
+.hero-image:hover {
+  transform: rotate(2deg) scale(1.02);
+}
+
+@media screen and (max-width: 700px) {
+  .page-heading, h1, h2 {
+    text-align: center;
+  }
+
+  .hero-image {
+    float: none;
+    display: block;
+    margin: $spacing-unit auto;
+    max-width: 220px;
+  }
+
+  .site-title {
+    font-size: 1.4rem;
+  }
+
+  .resume-download {
+    margin: $spacing-unit 0;
+  }
+}
