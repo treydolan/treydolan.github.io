@@ -206,9 +206,7 @@ table td {
 }
 
 .experience-meta {
-  display: flex;
-  justify-content: space-between;
-  gap: $spacing-unit;
+  display: block;
   margin: $spacing-unit / 2 0 $spacing-unit;
   padding: 0.8rem 1rem;
   border: 1px solid var(--brand-border-soft);
@@ -221,6 +219,10 @@ table td {
 .experience-meta strong,
 .experience-meta span {
   color: var(--text-color);
+}
+
+.experience-meta strong {
+  display: block;
 }
 
 .theme-toggle {
@@ -336,6 +338,10 @@ table td {
   margin: $spacing-unit 0;
 }
 
+.featured-grid > li {
+  list-style: none;
+}
+
 .feature-card {
   display: block;
   min-height: 130px;
@@ -392,12 +398,11 @@ table td {
 
 .project-actions {
   justify-content: flex-end;
-  min-width: 150px;
   margin-top: 0;
 }
 
 .project-actions .button-link {
-  width: 100%;
+  min-width: 140px;
   height: 44px;
   min-height: 44px;
   padding: 0.45rem 0.7rem;
@@ -412,6 +417,50 @@ table td {
   border: 1px solid var(--media-border);
   border-radius: 8px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+}
+
+.cert-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: $spacing-unit / 1.5;
+  margin: $spacing-unit / 2 0 $spacing-unit;
+}
+
+.cert-list > li {
+  list-style: none;
+  padding: $spacing-unit / 1.35;
+  border: 1px solid var(--brand-border);
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, var(--brand-wash-soft), transparent),
+    var(--panel-color);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04);
+}
+
+.cert-list strong {
+  display: block;
+  margin-top: 0.85rem;
+  margin-bottom: 0.25rem;
+  color: var(--accent-color);
+}
+
+.cert-image {
+  display: block;
+  width: 100%;
+  height: 150px;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+.cert-image-logo {
+  max-width: 130px;
+}
+
+.cert-image-certificate {
+  max-width: 300px;
+  border: 1px solid var(--media-border);
+  border-radius: 6px;
+  background: #ffffff;
 }
 
 .post-list {
@@ -620,7 +669,8 @@ table td {
   }
 
   .featured-grid,
-  .project-summary {
+  .project-summary,
+  .cert-list {
     grid-template-columns: 1fr;
   }
 
@@ -634,8 +684,13 @@ table td {
 
   .project-summary,
   .post-content,
-  .post-list > li {
+  .post-list > li,
+  .cert-list > li {
     padding: $spacing-unit / 2;
+  }
+
+  .cert-image {
+    height: 130px;
   }
 
   .experience-meta {

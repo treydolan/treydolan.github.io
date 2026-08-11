@@ -11,28 +11,20 @@ Web development student and CompTIA A+ certified IT professional building respon
 
 I am looking for an entry-level web developer role where I can bring hands-on support experience, careful troubleshooting, and a practical eye for building interfaces that are clear, reliable, and easy to use.
 
-<div class="cta-row">
-  <a class="button-link" href="/projects/">View projects</a>
-  <a class="button-link button-link-secondary" href="/work-experience/">Resume and experience</a>
-  <a class="button-link button-link-secondary" href="mailto:treyrdolan@gmail.com">Contact me</a>
-</div>
+[View projects](/projects/){: .button-link }
+[Resume and experience](/work-experience/){: .button-link .button-link-secondary }
+[Contact me](/contact/){: .button-link .button-link-secondary }
+{: .cta-row }
 
 ## Featured Work
 
-<div class="featured-grid">
-  <a class="feature-card" href="/projects/#web-audio-api-example">
-    <strong>Web Audio API Demo</strong>
-    <span>Interactive browser audio experiments with vanilla JavaScript.</span>
-  </a>
-  <a class="feature-card" href="/projects/#mithriljs-productivity-app">
-    <strong>Mithril.js Productivity App</strong>
-    <span>A lightweight task workflow built with Mithril.js and Bootstrap.</span>
-  </a>
-  <a class="feature-card" href="/projects/#introjs-sample-site">
-    <strong>Intro.js Guided Tour</strong>
-    <span>Product onboarding patterns using an interactive walkthrough library.</span>
-  </a>
-</div>
+- [**Web Audio API Demo**  
+  Interactive browser audio experiments with vanilla JavaScript.](/projects/#web-audio-api-example){: .feature-card }
+- [**Mithril.js Productivity App**  
+  A lightweight task workflow built with Mithril.js and Bootstrap.](/projects/#mithriljs-productivity-app){: .feature-card }
+- [**Intro.js Guided Tour**  
+  Product onboarding patterns using an interactive walkthrough library.](/projects/#introjs-sample-site){: .feature-card }
+{: .featured-grid }
 
 ---
 
@@ -45,6 +37,6 @@ I am looking for an entry-level web developer role where I can bring hands-on su
 
 ## Currently Focused On
 
-I am sharpening my JavaScript, React, SvelteKit, backend framework, and performance skills while finishing my Bachelor's degree in Web Development at Broward College.
+I am sharpening my JavaScript, React, SvelteKit, backend framework, and performance skills while continuing to build on my Bachelor's degree in Web Development from Broward College.
 
 Email: [treyrdolan@gmail.com](mailto:treyrdolan@gmail.com)

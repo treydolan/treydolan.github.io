@@ -12,8 +12,6 @@ I am open to entry-level web development roles, internships, junior developer op
 
 **Location:** Pompano Beach, FL
 
-**Phone:** Available on request
-
 ## Connect On Social
 
 - [GitHub](https://github.com/treydolan)
