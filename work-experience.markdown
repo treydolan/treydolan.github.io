@@ -55,13 +55,13 @@ Jan 2019 - Mar 2020
 
 ## Education
 
-**Bachelor's Degree in Web Development**  
+**B.A.S. | Information Technology Web Development Specialization**  
 Broward College (2026)
 
-**Associate's Degree in Web Development**  
+**A.S. | Software Development, Web Development**  
 Broward College (2025)
 
-**B.S. Hospitality & Tourism Management**  
+**B.S. | Hospitality & Tourism Management**  
 Florida State University (2018)
 
-[Download my resume](/assets/260610_Dolan-Resume.pdf){: .resume-download }
+[Download my resume](/assets/Thomas_Dolan_Resume.pdf){: .resume-download }

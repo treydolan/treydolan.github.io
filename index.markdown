@@ -11,9 +11,10 @@ Web development student and CompTIA A+ certified IT professional building respon
 
 I am looking for an entry-level web developer role where I can bring hands-on support experience, careful troubleshooting, and a practical eye for building interfaces that are clear, reliable, and easy to use.
 
-[View projects](/projects/){: .button-link }
-[Resume and experience](/work-experience/){: .button-link .button-link-secondary }
-[Contact me](/contact/){: .button-link .button-link-secondary }
+[Projects](/projects/){: .button-link }
+[Experience](/work-experience/){: .button-link .button-link-secondary }
+[Contact](/contact/){: .button-link .button-link-secondary }
+[Resume](/assets/Thomas_Dolan_Resume.pdf){: .button-link .button-link-secondary }
 {: .cta-row }
 
 ## Featured Work
